@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Q1</string>
+    <string name="butterfly">butterfly</string>
+    <string name="next_button">Next</string>
+    <string name="random_button">Random</string>
+    <string name="prev_button">Previous</string>
+</resources>
